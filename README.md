@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭕ working as a junior Frontend Developer 💻<br>⭕ I’m looking to collaborate on web development projects 🌐<br>⭕  I’m currently learning at Re:code frontend bootcamp 👨🏽‍💻<br>⭕ Fun fact: I love movies, especially Marvel Universe 🎬
+⭕ working as a junior Frontend Developer 💻<br>⭕  I’m currently learning at Re:code frontend bootcamp 👨<br>⭕ I’m looking to collaborate on web development projects 🌐🏽‍💻<br>⭕ Fun fact: I love movies, especially Marvel Universe 🎬
 
 
 ## 🌐 Socials:
