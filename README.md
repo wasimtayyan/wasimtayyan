@@ -22,7 +22,7 @@
 <!-- ### Hello every one👋
 
 - 🌱 I’m currently learning at Re:code frontend bootcamp
-- :computer:I’m interested in codeing & programmming world 
+- :computer: I’m interested in coding & programmming world 
 - 💬 One of my hobbies is reading novels 
 - 📫 How to reach me: wasimtayyan@gmail.com -->
 <!--
