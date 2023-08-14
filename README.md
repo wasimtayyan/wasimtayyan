@@ -4,7 +4,7 @@
 
 ## 🌐 Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wasim-al-tayan-7b3a46201) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230177B5.svg?logo=portfolio&logoColor=white)]([https://your-portfolio-url.com](https://wasimtayyan.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230177B5.svg?logo=portfolio&logoColor=black)]((https://wasimtayyan.vercel.app/))
 
 
 # 💻 Tech Stack:
